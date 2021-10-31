@@ -28,7 +28,7 @@
 
 id 序号 必填
 category 单选 多选 填空 必填
-quiz_type 每日 每周 专项 必填
+quiz_type 每日 每周 专项
 question 问题 必填
 tips 题目提示 必填
 raw_answer 原始正确答案 选择题去掉 每个选项 前面的 ABCD 必填 全选可不填
