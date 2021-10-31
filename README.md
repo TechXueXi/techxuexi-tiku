@@ -23,6 +23,8 @@
 
 格式：
 
+必须使用双引号包裹字符串。
+
 ```
 {"id":1,"category":"多选","quiz_type":"","question":"古田会议决议规定，新分子的入党条件是：（）；（）；（）；（）；不吃鸦片，不赌博。","tips":['政治观念没有错误的（包括阶级觉悟）', '忠实', '有牺牲精神，能积极工作', '没有发洋财的观念'],"raw_answer":[],"raw_wrongAnswer":[],"answer":"ABCD","wrongAnswer":null,"option":null},
 
