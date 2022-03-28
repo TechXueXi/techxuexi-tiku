@@ -1,5 +1,5 @@
 [
-{"id":1,"category":"多选","quiz_type":"","question":"古田会议决议规定，新分子的入党条件是：（）；（）；（）；（）；不吃鸦片，不赌博。","tips":["政治观念没有错误的（包括阶级觉悟）", "忠实", "有牺牲精神，能积极工作", "没有发洋财的观念"],"raw_answer":[],"raw_wrongAnswer":[],"answer":"ABCD","wrongAnswer":null,"option":null},
+  {"id":1,"category":"多选","quiz_type":"","question":"古田会议决议规定，新分子的入党条件是：（）；（）；（）；（）；不吃鸦片，不赌博。","tips":["政治观念没有错误的（包括阶级觉悟）", "忠实", "有牺牲精神，能积极工作", "没有发洋财的观念"],"raw_answer":[],"raw_wrongAnswer":[],"answer":"ABCD","wrongAnswer":null,"option":null},
   {"id":2,"category":"多选","quiz_type":"","question":"在艰苦的抗战环境中，中国共产党非常注意加强自身建设。（）、（）、（）、（）等，这些论著为党员教育提供了重要教材，在党的建设中发挥了重要作用。","tips":["毛泽东发表《〈共产党人〉发刊词》", "陈云撰写了《怎样做一个共产党员》", "刘少奇作《论共产党员的修养》", "张闻天连续发表《共产党员的权利与义务》"],"raw_answer":[],"raw_wrongAnswer":[],"answer":"ABCD","wrongAnswer":null,"option":null},
-  
+  {"id":3,"category":"填空题","quiz_type":"","question":"电影《柴生芳》中，柴生芳去北京开会，带去了临洮的土和土豆，深情地向各位领导介绍临洮的好与难，说临洮的现状一天没改变他就一天抬不起头，“如果可以，我愿意用我的去交换。”","tips":[],"raw_answer":[],"raw_wrongAnswer":[],"answer":"生命","wrongAnswer":null,"option":null},
 ]
